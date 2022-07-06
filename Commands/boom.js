@@ -9,7 +9,7 @@ Coded By Ravindu Manoj
 */
 const {
 	BoomLoop
-} = Ravindu
+} = OminduAnjana
 
 Manoj.boom.start = async(core) => {
 	var boom = new BoomLoop(core)
