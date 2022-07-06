@@ -1,17 +1,17 @@
 {
-  "name": "manoj-md",
+  "name": "WebAlpha-Whatsapp-md",
   "version": "1.0.0",
   "description": "World Best Whatsapp Bot.",
   "main": "./index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Ravindu Manoj",
+  "author": "Omindu Anjana",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ravindu01manoj/Manoj-Md/issues"
+    "url": "https://github.com/OMINDUANJANA/WebAlpha-MD-BOT/issues"
   },
-  "homepage": "https://github.com/ravindu01manoj/Manoj-Md#readme",
+  "homepage": "https://github.com/OMINDUANJANA/WebAlpha-MD-BOT#readme",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/ravindu01manoj/baileys",
     "@ravindu01manoj/bash-js": "*",
@@ -30,6 +30,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ravindu01manoj/Manoj-Md.git"
+    "url": "git+https://github.com/OMINDUANJANA/WebAlpha-MD-BOT.git"
   }
 }
