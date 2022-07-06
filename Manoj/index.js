@@ -276,7 +276,7 @@ module.exports = {
 		react: "⬇️"
 	},
 	install: {
-		command: [ "install" ],
+		command: [ "install", "istll" ],
 		type: "private",
 		category: "profile",
 		react: "⬆️"
@@ -296,7 +296,7 @@ module.exports = {
 		react: "🌐"
 	},
 	ip: {
-		command: [ "ip" ],
+		command: [ "ip" , "ipaddr"],
 		desc: string().news.ip.desc,
 		category: "main",
 		type: type_bot,
@@ -331,7 +331,7 @@ module.exports = {
 		react: "🤪"
 	},
 	kick: {
-		command: [ "kick", "ඩෝං" ],
+		command: [ "kick", "ඩෝං" , "ban"],
 		type: "admin",
 		category: "admin",
 		desc: string().admin.kick.desc,
@@ -596,7 +596,7 @@ module.exports = {
 		react: "👑"
 	},
 	setabout: {
-		command: [ "aboutset" ],
+		command: [ "aboutset" , "setabout"],
 		type: "private",
 		category: "profile",
 		desc: string().own.about.desc,
@@ -617,7 +617,7 @@ module.exports = {
 		react: "🔎"
 	},
 	shutdown: {
-		command: [ "shutdown", "ශට්ඩවුන්" ],
+		command: [ "shutdown", "ශට්ඩවුන්" , "botoff"],
 		type: "private",
 		category: "profile",
 		desc: string().start.shutdown.desc,
@@ -702,7 +702,7 @@ module.exports = {
 		react: "👑"
 	},
 	tiktok: {
-		command: [ "tiktok" ],
+		command: [ "tiktok" , "tktk"],
 		type: type_bot,
 		category: "download",
 		desc: string().tiktok.desc,
