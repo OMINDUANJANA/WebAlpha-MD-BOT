@@ -1,4 +1,4 @@
-# Manoj Multi-device Whatsapp Bot
+# WebAlpha-MD-BOT Whatsapp Bot
 
 - Not yet published
 
